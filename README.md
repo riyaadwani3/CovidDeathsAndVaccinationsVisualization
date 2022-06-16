@@ -1,1 +1,1 @@
-# CovidDeathsAndVaccinationsVisualization
+# Covid deaths and vaccinations visualization
